@@ -1,0 +1,305 @@
+[ 2021/9/6 下午2:10:11 ] [ 任务启动 ] 开始检查爬取队列
+[ 2021/9/6 下午2:10:13 ] [ 进入页面 ] 开始爬取ACH数据
+[ 2021/9/6 下午2:10:14 ] [ 获取数据 ] ACH | decimal:8 | officialSite:http://www.alchemytech.io/ 
+[ 2021/9/6 下午2:10:28 ] [ 进入页面 ] 开始爬取LRC数据
+[ 2021/9/6 下午2:10:28 ] [ 获取数据 ] LRC | decimal:18 | officialSite:https://loopring.org/ 
+[ 2021/9/6 下午2:10:46 ] [ 进入页面 ] 开始爬取LINK数据
+[ 2021/9/6 下午2:10:47 ] [ 获取数据 ] LINK | decimal:18 | officialSite:https://chain.link/ 
+[ 2021/9/6 下午2:11:04 ] [ 进入页面 ] 开始爬取DFA数据
+[ 2021/9/6 下午2:11:05 ] [ 获取数据 ] DFA | decimal:18 | officialSite:https://www.define.one/ 
+[ 2021/9/6 下午2:11:26 ] [ 进入页面 ] 开始爬取HT数据
+[ 2021/9/6 下午2:11:27 ] [ 获取数据 ] HT | decimal:18 | officialSite:https://www.huobipro.com/ 
+[ 2021/9/6 下午2:11:47 ] [ 进入页面 ] 开始爬取UNI数据
+[ 2021/9/6 下午2:11:47 ] [ 获取数据 ] UNI | decimal:18 | officialSite:https://uniswap.org/ 
+[ 2021/9/6 下午2:12:01 ] [ 进入页面 ] 开始爬取MATIC数据
+[ 2021/9/6 下午2:12:02 ] [ 获取数据 ] MATIC | decimal:18 | officialSite:https://matic.network/ 
+[ 2021/9/6 下午2:12:23 ] [ 进入页面 ] 开始爬取CRV数据
+[ 2021/9/6 下午2:12:23 ] [ 获取数据 ] CRV | decimal:18 | officialSite:https://www.curve.fi/ 
+[ 2021/9/6 下午2:12:39 ] [ 进入页面 ] 开始爬取AXS数据
+[ 2021/9/6 下午2:12:40 ] [ 获取数据 ] AXS | decimal:18 | officialSite:https://axieinfinity.com/ 
+[ 2021/9/6 下午2:12:59 ] [ 进入页面 ] 开始爬取SUSHI数据
+[ 2021/9/6 下午2:12:59 ] [ 获取数据 ] SUSHI | decimal:18 | officialSite:https://sushi.com/ 
+[ 2021/9/6 下午2:13:16 ] [ 进入页面 ] 开始爬取AAVE数据
+[ 2021/9/6 下午2:13:16 ] [ 获取数据 ] AAVE | decimal:18 | officialSite:https://aave.com/ 
+[ 2021/9/6 下午2:13:35 ] [ 进入页面 ] 开始爬取SHIB数据
+[ 2021/9/6 下午2:13:36 ] [ 获取数据 ] SHIB | decimal:18 | officialSite:https://shibatoken.com/ 
+[ 2021/9/6 下午2:13:48 ] [ 进入页面 ] 开始爬取GRT数据
+[ 2021/9/6 下午2:13:48 ] [ 获取数据 ] GRT | decimal:18 | officialSite:https://thegraph.com/ 
+[ 2021/9/6 下午2:14:06 ] [ 进入页面 ] 开始爬取CHZ数据
+[ 2021/9/6 下午2:14:06 ] [ 获取数据 ] CHZ | decimal:18 | officialSite:https://www.chiliz.com/ 
+[ 2021/9/6 下午2:14:19 ] [ 进入页面 ] 开始爬取SAND数据
+[ 2021/9/6 下午2:14:20 ] [ 获取数据 ] SAND | decimal:18 | officialSite:http://www.sandbox.game/ 
+[ 2021/9/6 下午2:14:41 ] [ 进入页面 ] 开始爬取SKL数据
+[ 2021/9/6 下午2:14:41 ] [ 获取数据 ] SKL | decimal:18 | officialSite:https://skale.network/ 
+[ 2021/9/6 下午2:14:55 ] [ 进入页面 ] 开始爬取OXT数据
+[ 2021/9/6 下午2:14:55 ] [ 获取数据 ] OXT | decimal:18 | officialSite:https://orchid.com/ 
+[ 2021/9/6 下午2:15:08 ] [ 进入页面 ] 开始爬取MASK数据
+[ 2021/9/6 下午2:15:09 ] [ 获取数据 ] MASK | decimal:18 | officialSite:https://mask.io/ 
+[ 2021/9/6 下午2:15:28 ] [ 进入页面 ] 开始爬取OMG数据
+[ 2021/9/6 下午2:15:28 ] [ 获取数据 ] OMG | decimal:18 | officialSite:https://omg.network/ 
+[ 2021/9/6 下午2:15:46 ] [ 进入页面 ] 开始爬取COMP数据
+[ 2021/9/6 下午2:15:47 ] [ 获取数据 ] COMP | decimal:18 | officialSite:https://compound.finance/ 
+[ 2021/9/6 下午2:15:59 ] [ 进入页面 ] 开始爬取BAT数据
+[ 2021/9/6 下午2:15:59 ] [ 获取数据 ] BAT | decimal:18 | officialSite:https://basicattentiontoken.org/ 
+[ 2021/9/6 下午2:16:16 ] [ 进入页面 ] 开始爬取WXT数据
+[ 2021/9/6 下午2:16:16 ] [ 获取数据 ] WXT | decimal:18 | officialSite:https://wirexapp.com/ 
+[ 2021/9/6 下午2:16:28 ] [ 进入页面 ] 开始爬取FOR数据
+[ 2021/9/6 下午2:16:28 ] [ 获取数据 ] FOR | decimal:18 | officialSite:https://for.tube/ 
+[ 2021/9/6 下午2:16:43 ] [ 进入页面 ] 开始爬取MX数据
+[ 2021/9/6 下午2:16:44 ] [ 获取数据 ] MX | decimal:18 | officialSite:https://www.mxc.ceo/ 
+[ 2021/9/6 下午2:16:58 ] [ 进入页面 ] 开始爬取FTT数据
+[ 2021/9/6 下午2:16:58 ] [ 获取数据 ] FTT | decimal:18 | officialSite:https://ftx.com/ 
+[ 2021/9/6 下午2:17:14 ] [ 进入页面 ] 开始爬取RSR数据
+[ 2021/9/6 下午2:17:14 ] [ 获取数据 ] RSR | decimal:18 | officialSite:https://reserve.org/ 
+[ 2021/9/6 下午2:17:25 ] [ 进入页面 ] 开始爬取LINA数据
+[ 2021/9/6 下午2:17:26 ] [ 获取数据 ] LINA | decimal:18 | officialSite:https://linear.finance 
+[ 2021/9/6 下午2:17:38 ] [ 进入页面 ] 开始爬取RNDR数据
+[ 2021/9/6 下午2:17:38 ] [ 获取数据 ] RNDR | decimal:18 | officialSite:https://rendertoken.com/ 
+[ 2021/9/6 下午2:17:59 ] [ 进入页面 ] 开始爬取YFI数据
+[ 2021/9/6 下午2:18:00 ] [ 获取数据 ] YFI | decimal:18 | officialSite:https://yearn.finance/ 
+[ 2021/9/6 下午2:18:14 ] [ 进入页面 ] 开始爬取SNX数据
+[ 2021/9/6 下午2:18:14 ] [ 获取数据 ] SNX | decimal:18 | officialSite:https://www.synthetix.io/ 
+[ 2021/9/6 下午2:18:30 ] [ 进入页面 ] 开始爬取MANA数据
+[ 2021/9/6 下午2:18:30 ] [ 获取数据 ] MANA | decimal:18 | officialSite:https://decentraland.org/ 
+[ 2021/9/6 下午2:18:45 ] [ 进入页面 ] 开始爬取1INCH数据
+[ 2021/9/6 下午2:18:45 ] [ 获取数据 ] 1INCH | decimal:18 | officialSite:https://1inch.io/ 
+[ 2021/9/6 下午2:18:57 ] [ 进入页面 ] 开始爬取CHR数据
+[ 2021/9/6 下午2:18:57 ] [ 获取数据 ] CHR | decimal:6 | officialSite:https://chromia.com/ 
+[ 2021/9/6 下午2:19:17 ] [ 进入页面 ] 开始爬取ZKS数据
+[ 2021/9/6 下午2:19:17 ] [ 获取数据 ] ZKS | decimal:18 | officialSite:https://zks.org/en 
+[ 2021/9/6 下午2:19:34 ] [ 进入页面 ] 开始爬取INJ数据
+[ 2021/9/6 下午2:19:34 ] [ 获取数据 ] INJ | decimal:18 | officialSite:https://injectiveprotocol.com/ 
+[ 2021/9/6 下午2:19:50 ] [ 进入页面 ] 开始爬取MXC数据
+[ 2021/9/6 下午2:19:50 ] [ 获取数据 ] MXC | decimal:18 | officialSite:https://www.mxc.org/ 
+[ 2021/9/6 下午2:20:05 ] [ 进入页面 ] 开始爬取RAI数据
+[ 2021/9/6 下午2:20:06 ] [ 获取数据 ] RAI | decimal:18 | officialSite:https://rai.finance 
+[ 2021/9/6 下午2:20:22 ] [ 进入页面 ] 开始爬取PHA数据
+[ 2021/9/6 下午2:20:22 ] [ 获取数据 ] PHA | decimal:18 | officialSite:https://phala.network/ 
+[ 2021/9/6 下午2:20:41 ] [ 进入页面 ] 开始爬取IOTX数据
+[ 2021/9/6 下午2:20:41 ] [ 获取数据 ] IOTX | decimal:18 | officialSite:https://iotex.io/ 
+[ 2021/9/6 下午2:21:06 ] [ 进入页面 ] 开始爬取REEF数据
+[ 2021/9/6 下午2:21:07 ] [ 获取数据 ] REEF | decimal:18 | officialSite:https://reef.finance/ 
+[ 2021/9/6 下午2:21:19 ] [ 进入页面 ] 开始爬取BAND数据
+[ 2021/9/6 下午2:21:19 ] [ 获取数据 ] BAND | decimal:18 | officialSite:https://bandprotocol.com/ 
+[ 2021/9/6 下午2:21:40 ] [ 进入页面 ] 开始爬取UMA数据
+[ 2021/9/6 下午2:21:40 ] [ 获取数据 ] UMA | decimal:18 | officialSite:https://umaproject.org/ 
+[ 2021/9/6 下午2:22:00 ] [ 进入页面 ] 开始爬取NU数据
+[ 2021/9/6 下午2:22:00 ] [ 获取数据 ] NU | decimal:18 | officialSite:https://www.nucypher.com/ 
+[ 2021/9/6 下午2:22:18 ] [ 进入页面 ] 开始爬取CLV数据
+[ 2021/9/6 下午2:22:18 ] [ 获取数据 ] CLV | decimal:18 | officialSite:https://clover.finance/ 
+[ 2021/9/6 下午2:22:34 ] [ 进入页面 ] 开始爬取O3数据
+[ 2021/9/6 下午2:22:35 ] [ 获取数据 ] O3 | decimal:18 | officialSite:https://o3swap.com/ 
+[ 2021/9/6 下午2:22:50 ] [ 进入页面 ] 开始爬取ZRX数据
+[ 2021/9/6 下午2:22:50 ] [ 获取数据 ] ZRX | decimal:18 | officialSite:https://0x.org/ 
+[ 2021/9/6 下午2:23:06 ] [ 进入页面 ] 开始爬取MIR数据
+[ 2021/9/6 下午2:23:06 ] [ 获取数据 ] MIR | decimal:18 | officialSite:https://eth.mirror.finance/ 
+[ 2021/9/6 下午2:23:22 ] [ 进入页面 ] 开始爬取OGN数据
+[ 2021/9/6 下午2:23:22 ] [ 获取数据 ] OGN | decimal:18 | officialSite:https://www.originprotocol.com/ 
+[ 2021/9/6 下午2:23:38 ] [ 进入页面 ] 开始爬取AKRO数据
+[ 2021/9/6 下午2:23:39 ] [ 获取数据 ] AKRO | decimal:18 | officialSite:https://akropolis.io/ 
+[ 2021/9/6 下午2:23:57 ] [ 进入页面 ] 开始爬取WOO数据
+[ 2021/9/6 下午2:23:58 ] [ 获取数据 ] WOO | decimal:18 | officialSite:https://woo.network/ 
+[ 2021/9/6 下午2:24:14 ] [ 进入页面 ] 开始爬取ARPA数据
+[ 2021/9/6 下午2:24:14 ] [ 获取数据 ] ARPA | decimal:18 | officialSite:https://arpachain.io/ 
+[ 2021/9/6 下午2:24:31 ] [ 进入页面 ] 开始爬取NKN数据
+[ 2021/9/6 下午2:24:31 ] [ 获取数据 ] NKN | decimal:18 | officialSite:https://nkn.org/ 
+[ 2021/9/6 下午2:24:49 ] [ 进入页面 ] 开始爬取CVC数据
+[ 2021/9/6 下午2:24:50 ] [ 获取数据 ] CVC | decimal:8 | officialSite:https://www.civic.com/ 
+[ 2021/9/6 下午2:25:09 ] [ 进入页面 ] 开始爬取FRONT数据
+[ 2021/9/6 下午2:25:09 ] [ 获取数据 ] FRONT | decimal:18 | officialSite:https://frontier.xyz 
+[ 2021/9/6 下午2:25:24 ] [ 进入页面 ] 开始爬取YFII数据
+[ 2021/9/6 下午2:25:24 ] [ 获取数据 ] YFII | decimal:18 | officialSite:https://dfi.money/ 
+[ 2021/9/6 下午2:25:40 ] [ 进入页面 ] 开始爬取USDC数据
+[ 2021/9/6 下午2:25:40 ] [ 获取数据 ] USDC | decimal:6 | officialSite:https://www.centre.io/ 
+[ 2021/9/6 下午2:25:53 ] [ 进入页面 ] 开始爬取WTC数据
+[ 2021/9/6 下午2:25:53 ] [ 获取数据 ] WTC | decimal:18 | officialSite:http://www.waltonchain.org/ 
+[ 2021/9/6 下午2:26:08 ] [ 进入页面 ] 开始爬取POLS数据
+[ 2021/9/6 下午2:26:09 ] [ 获取数据 ] POLS | decimal:18 | officialSite:https://www.polkastarter.com/ 
+[ 2021/9/6 下午2:26:29 ] [ 进入页面 ] 开始爬取KCASH数据
+[ 2021/9/6 下午2:26:30 ] [ 获取数据 ] KCASH | decimal:18 | officialSite:https://www.kcash.com/ 
+[ 2021/9/6 下午2:26:55 ] [ 进入页面 ] 开始爬取STORJ数据
+[ 2021/9/6 下午2:26:55 ] [ 获取数据 ] STORJ | decimal:8 | officialSite:https://storj.io/ 
+[ 2021/9/6 下午2:27:11 ] [ 进入页面 ] 开始爬取BAL数据
+[ 2021/9/6 下午2:27:11 ] [ 获取数据 ] BAL | decimal:18 | officialSite:https://balancer.finance/ 
+[ 2021/9/6 下午2:27:27 ] [ 进入页面 ] 开始爬取STAKE数据
+[ 2021/9/6 下午2:27:27 ] [ 获取数据 ] STAKE | decimal:18 | officialSite:https://xdaichain.com/ 
+[ 2021/9/6 下午2:27:41 ] [ 进入页面 ] 开始爬取UTK数据
+[ 2021/9/6 下午2:27:41 ] [ 获取数据 ] UTK | decimal:18 | officialSite:https://utrust.com/ 
+[ 2021/9/6 下午2:27:52 ] [ 进入页面 ] 开始爬取FIS数据
+[ 2021/9/6 下午2:27:53 ] [ 获取数据 ] FIS | decimal:18 | officialSite:https://www.stafi.io/ 
+[ 2021/9/6 下午2:28:10 ] [ 进入页面 ] 开始爬取RLC数据
+[ 2021/9/6 下午2:28:10 ] [ 获取数据 ] RLC | decimal:9 | officialSite:http://iex.ec/ 
+[ 2021/9/6 下午2:28:26 ] [ 进入页面 ] 开始爬取RAD数据
+[ 2021/9/6 下午2:28:26 ] [ 获取数据 ] RAD | decimal:18 | officialSite:https://radicle.xyz/ 
+[ 2021/9/6 下午2:28:40 ] [ 进入页面 ] 开始爬取CRU数据
+[ 2021/9/6 下午2:28:40 ] [ 获取数据 ] CRU | decimal:18 | officialSite:https://crust.network/ 
+[ 2021/9/6 下午2:29:00 ] [ 进入页面 ] 开始爬取OCN数据
+[ 2021/9/6 下午2:29:00 ] [ 获取数据 ] OCN | decimal:18 | officialSite:http://www.ocnex.net/ 
+[ 2021/9/6 下午2:29:21 ] [ 进入页面 ] 开始爬取ANKR数据
+[ 2021/9/6 下午2:29:21 ] [ 获取数据 ] ANKR | decimal:18 | officialSite:https://www.ankr.com/ 
+[ 2021/9/6 下午2:29:33 ] [ 进入页面 ] 开始爬取SOC数据
+[ 2021/9/6 下午2:29:34 ] [ 获取数据 ] SOC | decimal:18 | officialSite:https://www.allsportschain.com/ 
+[ 2021/9/6 下午2:29:48 ] [ 进入页面 ] 开始爬取ANT数据
+[ 2021/9/6 下午2:29:48 ] [ 获取数据 ] ANT | decimal:18 | officialSite:https://aragon.org/ 
+[ 2021/9/6 下午2:30:08 ] [ 进入页面 ] 开始爬取BADGER数据
+[ 2021/9/6 下午2:30:08 ] [ 获取数据 ] BADGER | decimal:18 | officialSite:https://badger.finance/ 
+[ 2021/9/6 下午2:30:24 ] [ 进入页面 ] 开始爬取NEXO数据
+[ 2021/9/6 下午2:30:25 ] [ 获取数据 ] NEXO | decimal:18 | officialSite:https://nexo.io/ 
+[ 2021/9/6 下午2:30:42 ] [ 进入页面 ] 开始爬取REN数据
+[ 2021/9/6 下午2:30:42 ] [ 获取数据 ] REN | decimal:18 | officialSite:https://renproject.io/ 
+[ 2021/9/6 下午2:30:58 ] [ 进入页面 ] 开始爬取POND数据
+[ 2021/9/6 下午2:30:59 ] [ 获取数据 ] POND | decimal:18 | officialSite:https://www.marlin.pro/ 
+[ 2021/9/6 下午2:31:13 ] [ 进入页面 ] 开始爬取GT数据
+[ 2021/9/6 下午2:31:13 ] [ 获取数据 ] GT | decimal:18 | officialSite:https://gatechain.io/ 
+[ 2021/9/6 下午2:31:35 ] [ 进入页面 ] 开始爬取TRB数据
+[ 2021/9/6 下午2:31:35 ] [ 获取数据 ] TRB | decimal:18 | officialSite:https://tellor.io/ 
+[ 2021/9/6 下午2:31:55 ] [ 进入页面 ] 开始爬取OGO数据
+[ 2021/9/6 下午2:31:55 ] [ 获取数据 ] OGO | decimal:18 | officialSite:https://origo.network/ 
+[ 2021/9/6 下午2:32:07 ] [ 进入页面 ] 开始爬取SMT数据
+[ 2021/9/6 下午2:32:08 ] [ 获取数据 ] SMT | decimal:18 | officialSite:https://smartmesh.io/ 
+[ 2021/9/6 下午2:32:29 ] [ 进入页面 ] 开始爬取MKR数据
+[ 2021/9/6 下午2:32:29 ] [ 获取数据 ] MKR | decimal:18 | officialSite:https://makerdao.com/ 
+[ 2021/9/6 下午2:32:40 ] [ 进入页面 ] 开始爬取API3数据
+[ 2021/9/6 下午2:32:40 ] [ 获取数据 ] API3 | decimal:18 | officialSite:https://api3.org/ 
+[ 2021/9/6 下午2:32:56 ] [ 进入页面 ] 开始爬取CRO数据
+[ 2021/9/6 下午2:32:56 ] [ 获取数据 ] CRO | decimal:8 | officialSite:https://chain.crypto.com/ 
+[ 2021/9/6 下午2:33:20 ] [ 进入页面 ] 开始爬取EGT数据
+[ 2021/9/6 下午2:33:20 ] [ 获取数据 ] EGT | decimal:18 | officialSite:https://egretia.io/ 
+[ 2021/9/6 下午2:33:42 ] [ 进入页面 ] 开始爬取FORTH数据
+[ 2021/9/6 下午2:33:43 ] [ 获取数据 ] FORTH | decimal:18 | officialSite:https://www.ampleforth.org/ 
+[ 2021/9/6 下午2:33:54 ] [ 进入页面 ] 开始爬取ELA数据
+[ 2021/9/6 下午2:33:54 ] [ 获取数据 ] ELA | decimal:18 | officialSite:https://www.elastos.org/ 
+[ 2021/9/6 下午2:34:11 ] [ 进入页面 ] 开始爬取MTA数据
+[ 2021/9/6 下午2:34:12 ] [ 获取数据 ] MTA | decimal:18 | officialSite:https://mstable.org/ 
+[ 2021/9/6 下午2:34:33 ] [ 进入页面 ] 开始爬取DF数据
+[ 2021/9/6 下午2:34:33 ] [ 获取数据 ] DF | decimal:18 | officialSite:https://dforce.network/ 
+[ 2021/9/6 下午2:34:49 ] [ 进入页面 ] 开始爬取DAI数据
+[ 2021/9/6 下午2:34:49 ] [ 获取数据 ] DAI | decimal:18 | officialSite:https://makerdao.com/ 
+[ 2021/9/6 下午2:35:01 ] [ 进入页面 ] 开始爬取BORING数据
+[ 2021/9/6 下午2:35:01 ] [ 获取数据 ] BORING | decimal:18 | officialSite:https://www.boringdao.com/ 
+[ 2021/9/6 下午2:35:22 ] [ 进入页面 ] 开始爬取TITAN数据
+[ 2021/9/6 下午2:35:22 ] [ 获取数据 ] TITAN | decimal:18 | officialSite:https://titanswap.org/ 
+[ 2021/9/6 下午2:35:36 ] [ 进入页面 ] 开始爬取RING数据
+[ 2021/9/6 下午2:35:37 ] [ 获取数据 ] RING | decimal:18 | officialSite:https://darwinia.network/ 
+[ 2021/9/6 下午2:35:48 ] [ 进入页面 ] 开始爬取BLZ数据
+[ 2021/9/6 下午2:35:48 ] [ 获取数据 ] BLZ | decimal:18 | officialSite:https://bluzelle.com/ 
+[ 2021/9/6 下午2:36:06 ] [ 进入页面 ] 开始爬取KAN数据
+[ 2021/9/6 下午2:36:07 ] [ 获取数据 ] KAN | decimal:18 | officialSite:http://kan.land/ 
+[ 2021/9/6 下午2:36:22 ] [ 进入页面 ] 开始爬取STN数据
+[ 2021/9/6 下午2:36:22 ] [ 获取数据 ] STN | decimal:18 | officialSite:https://www.stonedefi.io/ 
+[ 2021/9/6 下午2:36:41 ] [ 进入页面 ] 开始爬取HPT数据
+[ 2021/9/6 下午2:36:41 ] [ 获取数据 ] HPT | decimal:18 | officialSite:https://www.huobipool.com/ 
+[ 2021/9/6 下午2:36:56 ] [ 进入页面 ] 开始爬取ABT数据
+[ 2021/9/6 下午2:36:56 ] [ 获取数据 ] ABT | decimal:18 | officialSite:https://www.arcblock.io/ 
+[ 2021/9/6 下午2:37:18 ] [ 进入页面 ] 开始爬取ELF数据
+[ 2021/9/6 下午2:37:19 ] [ 获取数据 ] ELF | decimal:18 | officialSite:http://aelf.io/ 
+[ 2021/9/6 下午2:37:37 ] [ 进入页面 ] 开始爬取CNNS数据
+[ 2021/9/6 下午2:37:37 ] [ 获取数据 ] CNNS | decimal:18 | officialSite:https://cnns.io/ 
+[ 2021/9/6 下午2:37:56 ] [ 进入页面 ] 开始爬取INSUR数据
+[ 2021/9/6 下午2:37:57 ] [ 获取数据 ] INSUR | decimal:18 | officialSite:https://www.insurace.io/ 
+[ 2021/9/6 下午2:38:17 ] [ 进入页面 ] 开始爬取SKM数据
+[ 2021/9/6 下午2:38:17 ] [ 获取数据 ] SKM | decimal:18 | officialSite:https://skrumble.network/ 
+[ 2021/9/6 下午2:38:33 ] [ 进入页面 ] 开始爬取HOT数据
+[ 2021/9/6 下午2:38:33 ] [ 获取数据 ] HOT | decimal:18 | officialSite:https://hydroprotocol.io/ 
+[ 2021/9/6 下午2:38:48 ] [ 进入页面 ] 开始爬取UUU数据
+[ 2021/9/6 下午2:38:48 ] [ 获取数据 ] UUU | decimal:18 | officialSite:https://u.network/ 
+[ 2021/9/6 下午2:39:08 ] [ 进入页面 ] 开始爬取SEELE数据
+[ 2021/9/6 下午2:39:08 ] [ 获取数据 ] SEELE | decimal:18 | officialSite:https://seelen.pro/index_en.html 
+[ 2021/9/6 下午2:39:21 ] [ 进入页面 ] 开始爬取DAC数据
+[ 2021/9/6 下午2:39:21 ] [ 获取数据 ] DAC | decimal:18 | officialSite:https://www.davinci.vision/ 
+[ 2021/9/6 下午2:39:36 ] [ 进入页面 ] 开始爬取CVP数据
+[ 2021/9/6 下午2:39:36 ] [ 获取数据 ] CVP | decimal:18 | officialSite:https://powerpool.finance/ 
+[ 2021/9/6 下午2:39:53 ] [ 进入页面 ] 开始爬取FTI数据
+[ 2021/9/6 下午2:39:53 ] [ 获取数据 ] FTI | decimal:18 | officialSite:https://www.fanstime.org/ 
+[ 2021/9/6 下午2:40:13 ] [ 进入页面 ] 开始爬取GOF数据
+[ 2021/9/6 下午2:40:14 ] [ 获取数据 ] GOF | decimal:18 | officialSite:https://golff.finance/ 
+[ 2021/9/6 下午2:40:35 ] [ 进入页面 ] 开始爬取XRT数据
+[ 2021/9/6 下午2:40:35 ] [ 获取数据 ] XRT | decimal:9 | officialSite:https://robonomics.network/en/ 
+[ 2021/9/6 下午2:40:47 ] [ 进入页面 ] 开始爬取SWRV数据
+[ 2021/9/6 下午2:40:47 ] [ 获取数据 ] SWRV | decimal:18 | officialSite:https://swerve.fi/ 
+[ 2021/9/6 下午2:41:02 ] [ 进入页面 ] 开始爬取CTSI数据
+[ 2021/9/6 下午2:41:02 ] [ 获取数据 ] CTSI | decimal:18 | officialSite:https://cartesi.io/ 
+[ 2021/9/6 下午2:41:18 ] [ 进入页面 ] 开始爬取AUCTION数据
+[ 2021/9/6 下午2:41:19 ] [ 获取数据 ] AUCTION | decimal:18 | officialSite:https://bounce.finance/ 
+[ 2021/9/6 下午2:41:35 ] [ 进入页面 ] 开始爬取MDS数据
+[ 2021/9/6 下午2:41:35 ] [ 获取数据 ] MDS | decimal:18 | officialSite:http://www.medishares.org/ 
+[ 2021/9/6 下午2:41:58 ] [ 进入页面 ] 开始爬取MLN数据
+[ 2021/9/6 下午2:41:58 ] [ 获取数据 ] MLN | decimal:18 | officialSite:https://enzyme.finance/ 
+[ 2021/9/6 下午2:42:12 ] [ 进入页面 ] 开始爬取APN数据
+[ 2021/9/6 下午3:30:58 ] [ 任务启动 ] 开始检查爬取队列
+[ 2021/9/6 下午3:31:01 ] [ 进入页面 ] 开始爬取APN数据
+[ 2021/9/6 下午3:32:40 ] [ 任务启动 ] 开始检查爬取队列
+[ 2021/9/6 下午3:32:45 ] [ 进入页面 ] 开始爬取APN数据
+[ 2021/9/6 下午3:37:09 ] [ 任务启动 ] 开始检查爬取队列
+[ 2021/9/6 下午3:37:11 ] [ 进入页面 ] 开始爬取APN数据
+[ 2021/9/6 下午3:37:42 ] [ 获取数据 ] APN | decimal:18 | officialSite:null
+[ 2021/9/6 下午3:38:04 ] [ 进入页面 ] 开始爬取VALUE数据
+[ 2021/9/6 下午3:38:04 ] [ 获取数据 ] VALUE | decimal:18 | officialSite:https://valuedefi.io/ 
+[ 2021/9/6 下午3:38:25 ] [ 进入页面 ] 开始爬取HIT数据
+[ 2021/9/6 下午3:38:25 ] [ 获取数据 ] HIT | decimal:6 | officialSite:http://hitchain.org/index.html 
+[ 2021/9/6 下午3:38:41 ] [ 进入页面 ] 开始爬取SNT数据
+[ 2021/9/6 下午3:38:42 ] [ 获取数据 ] SNT | decimal:18 | officialSite:https://status.im/ 
+[ 2021/9/6 下午3:39:01 ] [ 进入页面 ] 开始爬取SWFTC数据
+[ 2021/9/6 下午3:39:01 ] [ 获取数据 ] SWFTC | decimal:8 | officialSite:http://www.swft.pro/ 
+[ 2021/9/6 下午3:39:26 ] [ 进入页面 ] 开始爬取TNB数据
+[ 2021/9/6 下午3:39:26 ] [ 获取数据 ] TNB | decimal:18 | officialSite:http://tnb.fund/ 
+[ 2021/9/6 下午3:39:39 ] [ 进入页面 ] 开始爬取LET数据
+[ 2021/9/6 下午3:39:39 ] [ 获取数据 ] LET | decimal:6 | officialSite:https://www.linkeye.com/#/ 
+[ 2021/9/6 下午3:39:53 ] [ 进入页面 ] 开始爬取STPT数据
+[ 2021/9/6 下午3:39:53 ] [ 获取数据 ] STPT | decimal:18 | officialSite:https://stp.network/ 
+[ 2021/9/6 下午3:40:11 ] [ 进入页面 ] 开始爬取EKT数据
+[ 2021/9/6 下午3:40:11 ] [ 获取数据 ] EKT | decimal:8 | officialSite:http://ekt8.io/ 
+[ 2021/9/6 下午3:40:23 ] [ 进入页面 ] 开始爬取DHT数据
+[ 2021/9/6 下午3:40:24 ] [ 获取数据 ] DHT | decimal:18 | officialSite:https://www.dhedge.org/ 
+[ 2021/9/6 下午3:40:44 ] [ 进入页面 ] 开始爬取EM数据
+[ 2021/9/6 下午3:40:45 ] [ 获取数据 ] EM | decimal:8 | officialSite:https://eminer.pro/#/ 
+[ 2021/9/6 下午3:41:08 ] [ 进入页面 ] 开始爬取BNT数据
+[ 2021/9/6 下午3:41:09 ] [ 获取数据 ] BNT | decimal:18 | officialSite:https://bancor.network/ 
+[ 2021/9/6 下午3:41:24 ] [ 进入页面 ] 开始爬取RUFF数据
+[ 2021/9/6 下午3:41:24 ] [ 获取数据 ] RUFF | decimal:18 | officialSite:http://ruffchain.com/ 
+[ 2021/9/6 下午3:41:38 ] [ 进入页面 ] 开始爬取VIDY数据
+[ 2021/9/6 下午3:41:39 ] [ 获取数据 ] VIDY | decimal:18 | officialSite:http://www.vidy.com/ 
+[ 2021/9/6 下午3:41:59 ] [ 进入页面 ] 开始爬取CRE数据
+[ 2021/9/6 下午3:41:59 ] [ 获取数据 ] CRE | decimal:18 | officialSite:https://carryprotocol.io/ 
+[ 2021/9/6 下午3:42:15 ] [ 进入页面 ] 开始爬取WNXM数据
+[ 2021/9/6 下午3:42:15 ] [ 获取数据 ] WNXM | decimal:18 | officialSite:https://nexusmutual.io/ 
+[ 2021/9/6 下午3:42:34 ] [ 进入页面 ] 开始爬取DTA数据
+[ 2021/9/6 下午3:42:35 ] [ 获取数据 ] DTA | decimal:18 | officialSite:https://data.eco/ 
+[ 2021/9/6 下午3:42:53 ] [ 进入页面 ] 开始爬取TOP数据
+[ 2021/9/6 下午3:42:53 ] [ 获取数据 ] TOP | decimal:18 | officialSite:https://www.topnetwork.org/ 
+[ 2021/9/6 下午3:43:14 ] [ 进入页面 ] 开始爬取ITC数据
+[ 2021/9/6 下午3:43:14 ] [ 获取数据 ] ITC | decimal:18 | officialSite:https://iotchain.io/ 
+[ 2021/9/6 下午3:43:33 ] [ 进入页面 ] 开始爬取BIX数据
+[ 2021/9/6 下午3:43:34 ] [ 获取数据 ] BIX | decimal:18 | officialSite:https://www.bibox.com/ 
+[ 2021/9/6 下午3:43:44 ] [ 进入页面 ] 开始爬取NHBTC数据
+[ 2021/9/6 下午3:44:15 ] [ 获取数据 ] NHBTC | decimal:18 | officialSite:null
+[ 2021/9/6 下午3:44:32 ] [ 进入页面 ] 开始爬取NSURE数据
+[ 2021/9/6 下午3:44:32 ] [ 获取数据 ] NSURE | decimal:18 | officialSite:https://nsure.network/ 
+[ 2021/9/6 下午3:44:46 ] [ 进入页面 ] 开始爬取UIP数据
+[ 2021/9/6 下午3:44:46 ] [ 获取数据 ] UIP | decimal:18 | officialSite:http://www.unlimitedip.io/ 
+[ 2021/9/6 下午3:45:01 ] [ 进入页面 ] 开始爬取PVT数据
+[ 2021/9/6 下午3:45:01 ] [ 获取数据 ] PVT | decimal:18 | officialSite:https://www.pivot.one/ 
+[ 2021/9/6 下午3:45:17 ] [ 进入页面 ] 开始爬取XMX数据
+[ 2021/9/6 下午3:45:18 ] [ 获取数据 ] XMX | decimal:8 | officialSite:https://www.xmx.com/ 
+[ 2021/9/6 下午3:45:35 ] [ 进入页面 ] 开始爬取YEE数据
+[ 2021/9/6 下午3:45:36 ] [ 获取数据 ] YEE | decimal:18 | officialSite:https://www.yeefoundation.com/ 
+[ 2021/9/6 下午3:45:56 ] [ 进入页面 ] 开始爬取DKA数据
+[ 2021/9/6 下午3:45:57 ] [ 获取数据 ] DKA | decimal:18 | officialSite:https://dkargo.io/ 
+[ 2021/9/6 下午3:46:17 ] [ 进入页面 ] 开始爬取LOOM数据
+[ 2021/9/6 下午3:46:17 ] [ 获取数据 ] LOOM | decimal:18 | officialSite:https://loomx.io/ 
+[ 2021/9/6 下午3:46:36 ] [ 进入页面 ] 开始爬取GNX数据
+[ 2021/9/6 下午3:46:36 ] [ 获取数据 ] GNX | decimal:9 | officialSite:https://genaro.network/en 
+[ 2021/9/6 下午3:46:53 ] [ 进入页面 ] 开始爬取LXT数据
+[ 2021/9/6 下午3:46:53 ] [ 获取数据 ] LXT | decimal:18 | officialSite:http://litex.io/ 
+[ 2021/9/6 下午3:47:11 ] [ 进入页面 ] 开始爬取AST数据
+[ 2021/9/6 下午3:47:11 ] [ 获取数据 ] AST | decimal:4 | officialSite:https://www.airswap.io/ 
+[ 2021/9/6 下午3:47:35 ] [ 进入页面 ] 开始爬取NODE数据
+[ 2021/9/6 下午3:47:35 ] [ 获取数据 ] NODE | decimal:5 | officialSite:https://www.wn.work/ 
+[ 2021/9/6 下午3:47:49 ] [ 进入页面 ] 开始爬取AAC数据
+[ 2021/9/6 下午3:47:49 ] [ 获取数据 ] AAC | decimal:5 | officialSite:http://www.acuteangle.com/ 
+[ 2021/9/6 下午3:48:00 ] [ 进入页面 ] 开始爬取PAX数据
+[ 2021/9/6 下午3:48:00 ] [ 获取数据 ] PAX | decimal:18 | officialSite:https://www.paxos.com/usdp/ 
+[ 2021/9/6 下午3:48:18 ] [ 进入页面 ] 开始爬取LBA数据
+[ 2021/9/6 下午3:48:18 ] [ 获取数据 ] LBA | decimal:18 | officialSite:https://www.mycred.io/ 
+[ 2021/9/6 下午3:48:34 ] [ 进入页面 ] 开始爬取GLM数据
+[ 2021/9/6 下午3:48:34 ] [ 获取数据 ] GLM | decimal:18 | officialSite:https://golem.network/ 
